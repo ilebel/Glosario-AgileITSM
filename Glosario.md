@@ -10,7 +10,7 @@
 | Agile Manifesto                       | Manifiesto Ágil                                                              | Manifest Àgil                                                          |
 | Andon cord                            | Cuerda Andon                                                                 | Corda Andon                                                            |
 | Anomaly detection techniques          | Técnicas de detección de anomalías                                           | Tècniques de detecció d'anomalies                                      |
-| Anti-pattern                          | Anti-patrón                                                                  | Anti-patró                                                             |
+| Anti-pattern                          | Antipatrón                                                                  | Antipatró                                                             |
 | Antifragility                         | Antifragilidad                                                               | Antifragilitat                                                         |
 | Application Deployment                | Despliegue de Aplicaciones                                                   | Desplegament d'aplicacions                                             |
 | Artifact Management                   | Gestión de Artefactos                                                        | Gestió d'artefactes                                                     |
