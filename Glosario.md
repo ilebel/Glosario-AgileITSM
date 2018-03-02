@@ -8,7 +8,7 @@
 | Agile                                 | Ágil                                                                         | Àgil                                                                   |
 | Agile infrastructure                  | Infraestructura ágil                                                         | Infraestructura àgil                                                   |
 | Agile Manifesto                       | Manifiesto Ágil                                                              | Manifest Àgil                                                          |
-| Andon cord                            | Cuerda Andon                                                                 | Corda Andon                                                            |
+| Andon cord (control system)           | Cuerda Andon (sistema de control)                                            | Corda Andon (sistema de control)                                                           |
 | Anomaly detection techniques          | Técnicas de detección de anomalías                                           | Tècniques de detecció d'anomalies                                      |
 | Anti-pattern                          | Anti-patrón                                                                  | Anti-patró                                                             |
 | Antifragility                         | Antifragilidad                                                               | Antifragilitat                                                         |
