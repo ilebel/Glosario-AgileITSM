@@ -2,7 +2,7 @@
 |---------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------|
 | A/B testing                           | Pruebas A/B / Realización de Pruebas A/B                                     | Proves A/B / Realització de Proves A/B                                 |
 | Abuse(r) Story                        | Historia de Abuso / Caso de Abuso                                            | Història d'Abús                                                        |
-| Acceptance Tests                      | Pruebas de Aceptación                                                        | Proves d'Aceptació                                                     |
+| Acceptance Tests                      | Pruebas de Aceptación                                                        | Proves d'Acceptació                                                     |
 | Affinity                              | Afinidad                                                                     | Afinitat                                                               |
 | Affinity estimation                   | Estimación por afinidad                                                      | Estimació per afinitat                                                 |
 | Agile                                 | Ágil                                                                         | Àgil                                                                   |
