@@ -13,6 +13,7 @@
 | Anti-pattern                          | Antipatrón                                                                  | Antipatró                                                             |
 | Antifragility                         | Antifragilidad                                                               | Antifragilitat                                                         |
 | Application Deployment                | Despliegue de Aplicaciones                                                   | Desplegament d'aplicacions                                             |
+| Application Development               | Desarrollo de Aplicaciones                                                   | Desenvolupament d'aplicacions
 | Artifact Management                   | Gestión de Artefactos                                                        | Gestió d'artefactes                                                     |
 | Artifact repository                   | Repositorio de artefactos                                                    | Repositori d'artefactes                                              |
 | Automated provisioning                | Aprovisionamiento automatizado                                               | Aprovisionament automatitzat                                          |
