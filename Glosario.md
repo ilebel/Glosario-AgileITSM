@@ -1,8 +1,9 @@
 | Inglés                                | Castellano                                                                   | Catalán                                                                |
 |---------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------|
-| A/B testing                           | Pruebas A/B / Realización de Pruebas A/B                                     | Proves A/B / Realització de Proves A/B                                 |
-| Abuse(r) Story                        | Historia de Abuso / Caso de Abuso                                            | Història d'Abús                                                        |
-| Acceptance Tests                      | Pruebas de Aceptación                                                        | Proves d'Acceptació                                                     |
+
+| A/B testing                           | Pruebas A/B / Realización de pruebas A/B                                     | Proves A/B / Realització de proves A/B                                 |
+| Abuse(r) Story                        | Historia de abuso / Caso de abuso                                            | Història d'abús                                                        |
+| Acceptance Tests                      | Pruebas de aceptación                                                        | Proves d'acceptació                                                     |
 | Affinity                              | Afinidad                                                                     | Afinitat                                                               |
 | Affinity estimation                   | Estimación por afinidad                                                      | Estimació per afinitat                                                 |
 | Agile                                 | Ágil                                                                         | Àgil                                                                   |
@@ -12,10 +13,10 @@
 | Anomaly detection techniques          | Técnicas de detección de anomalías                                           | Tècniques de detecció d'anomalies                                      |
 | Anti-pattern                          | Antipatrón                                                                  | Antipatró                                                             |
 | Antifragility                         | Antifragilidad                                                               | Antifragilitat                                                         |
-| Application Deployment                | Despliegue de Aplicaciones                                                   | Desplegament d'aplicacions                                             |
+| Application Deployment                | Despliegue de aplicaciones                                                   | Desplegament d'aplicacions                                             |
 | Application Development               | Desarrollo de Aplicaciones                                                   | Desenvolupament d'aplicacions
-| Artifact Management                   | Gestión de Artefactos                                                        | Gestió d'artefactes                                                     |
-| Artifact repository                   | Repositorio de artefactos                                                    | Repositori d'artefactes                                              |
+| Artifact Management                   | Gestión de artefactos                                                        | Gestió d'artefactes                                                     |
+| Artifact Repository                   | Repositorio de artefactos                                                    | Repositori d'artefactes                                              |
 | Automated provisioning                | Aprovisionamiento automatizado                                               | Aprovisionament automatitzat                                          |
 | Automated testing                     | Pruebas automatizadas / Testeo automatizado / Testing automatizado           | Proves automatitzades / Testeig automatitzat / Testing automatitzat    |
 | Automated tests                       | Pruebas automatizadas                                                        | Proves automatitzades                                                  |
