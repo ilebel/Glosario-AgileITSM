@@ -1,5 +1,6 @@
 | Inglés                                | Castellano                                                                   | Catalán                                                                |
 |---------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------|
+
 | A/B testing                           | Pruebas A/B / Realización de pruebas A/B                                     | Proves A/B / Realització de proves A/B                                 |
 | Abuse(r) Story                        | Historia de abuso / Caso de abuso                                            | Història d'abús                                                        |
 | Acceptance Tests                      | Pruebas de aceptación                                                        | Proves d'acceptació                                                     |
@@ -8,11 +9,12 @@
 | Agile                                 | Ágil                                                                         | Àgil                                                                   |
 | Agile infrastructure                  | Infraestructura ágil                                                         | Infraestructura àgil                                                   |
 | Agile Manifesto                       | Manifiesto Ágil                                                              | Manifest Àgil                                                          |
-| Andon cord                            | Cuerda Andon                                                                 | Corda Andon                                                            |
+| Andon cord (control system)           | Cuerda Andon (sistema de control)                                            | Corda Andon (sistema de control)                                                           |
 | Anomaly detection techniques          | Técnicas de detección de anomalías                                           | Tècniques de detecció d'anomalies                                      |
-| Anti-pattern                          | Anti-patrón                                                                  | Anti-patró                                                             |
+| Anti-pattern                          | Antipatrón                                                                  | Antipatró                                                             |
 | Antifragility                         | Antifragilidad                                                               | Antifragilitat                                                         |
 | Application Deployment                | Despliegue de aplicaciones                                                   | Desplegament d'aplicacions                                             |
+| Application Development               | Desarrollo de Aplicaciones                                                   | Desenvolupament d'aplicacions
 | Artifact Management                   | Gestión de artefactos                                                        | Gestió d'artefactes                                                     |
 | Artifact Repository                   | Repositorio de artefactos                                                    | Repositori d'artefactes                                              |
 | Automated provisioning                | Aprovisionamiento automatizado                                               | Aprovisionament automatitzat                                          |
@@ -20,7 +22,7 @@
 | Automated tests                       | Pruebas automatizadas                                                        | Proves automatitzades                                                  |
 | Automation                            | Automatización                                                               | Automatització                                                         |
 | Backlog                               | Backlog / Lista de tareas                                                    | Backlog / Llista de tasques                                            |
-| Bad path                              | Camino Erróneo / Prueba Errónea                                              | Camí Erroni / Prova Erronea                                            |
+| Bad path                              | Camino erróneo / Prueba errónea                                              | Camí erroni / Prova errònia                                            |
 | Binary file                           | Fichero binario                                                              | Fitxer binari                                                          |
 | Blameless                             | Libre de culpa / sin culpa                                                   | Lliure de culpa / sense culpa                                          |
 | Blameless post mortem                 | Blameless post mortem                                                        | Blameless post mortem                                                  |
